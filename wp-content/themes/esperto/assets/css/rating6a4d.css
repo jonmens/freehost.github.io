@@ -1,0 +1,73 @@
+fieldset, label { margin: 0; padding: 0; }
+.rating { 
+    border: none;
+    float: left;
+}
+.rating > input { display: none; } 
+.rating > label:before { 
+    margin: 5px;
+    font-size: 1.25em;
+    font-family: FontAwesome;
+    display: inline-block;
+    content: "\f005";
+}
+.rating > .half:before { 
+    content: "\f089";
+    position: absolute;
+}
+.rating > label { 
+    color: #ddd; 
+    float: right; 
+}
+.rating > input:checked ~ label, 
+.rating:not(:checked) > label:hover,  
+.rating:not(:checked) > label:hover ~ label { color: #FFD700;  }
+.rating > input:checked + label:hover, 
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label, 
+.rating > input:checked ~ label:hover ~ label { color: #FFED85;  }     
+/* change these if you want */
+.raterater-bg-layer {
+    color: rgba( 0, 0, 0, 0.25 );
+}
+.raterater-hover-layer {
+    color: rgba( 255, 255, 0, 0.75 );
+}
+.rated { /* after the user selects a rating */
+    color: rgba( 255, 255, 0, 1 );
+}
+/* don't change these - you might break something.. */
+.raterater-wrapper {
+    overflow:visible;
+}
+.raterater-layer,
+.raterater-layer i {
+    display: block;
+    position: absolute;
+    overflow: visible;
+    top: 0px;
+    left: 0px;
+}
+.raterater-hover-layer {
+    display: none;
+}
+.raterater-rating-layer i {
+    width: 0px;
+    overflow: hidden;
+}
+/* Override star colors */
+.raterater-bg-layer {
+    color: rgba( 0, 0, 0, 0.25 );
+}
+.raterater-hover-layer {
+    color: rgba( 255, 255, 0, 0.75 );
+}
+.raterater-hover-layer.rated {
+    color: rgba( 255, 255, 0, 1 );
+}
+.raterater-rating-layer {
+    color: #f8de60;
+}
+.raterater-outline-layer {
+    color: transparent;
+}

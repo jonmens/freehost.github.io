@@ -1,0 +1,1828 @@
+@media screen and (max-width: 1920px) and (min-width: 1600px){
+    .online-coaches > li:last-child {
+        margin-right: 0;
+    }
+    .online-coaches > li {
+        width: 20.2%;
+    }
+    .consult-sec {
+        max-height: 457px;
+        min-height: 457px;
+    }
+
+}
+
+@media screen and (max-width: 1599px) and (min-width: 1025px){
+    .header-area.style3 .main-menu > ul > li {
+        margin-left: 40px;
+    }
+    a.free-consult {
+        padding: 0 25px;
+    }
+    .languages {
+        width: 55px;
+    }
+    .package-tab {
+        padding-right: 50px;
+    }
+    .guideline-package {
+        padding-left: 0;
+    }
+    .student-slider {
+        padding: 0;
+    }
+    .slider-student > button.slick-prev {
+        left: 200px;
+    }
+    .buyer-deta > h4 {
+        font-size: 20px;
+    }
+    .buyer-deta > span {
+        font-size: 13px;
+    }
+    .slider-student li.slick-slide .buyer-deta{
+        padding-left: 25px;
+    }
+    .buyer-deta > p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .slider-student li.slick-slide .buyer-deta::before{
+        left: 15px;
+        top: -45px;
+        font-size: 60px;
+    }
+    .header-area.style3 .main-menu{
+        font-size: 16px;
+    }
+    .responsive-header .search-n-cart .top-shop i{color: #fff;}
+    .header-area.style3 .social-icons{float: left;}
+
+
+}
+
+@media(max-width: 1366px) {
+    .sub-form input {
+        min-width: 465px;
+    }
+    .header-area.style5 .login-btn > ul,
+    .login-popup-style5, 
+    .register-popup-style5 {
+        left: auto;
+        right: 0;
+    }
+    .header-area.style5 .login-btn > ul::before, 
+    .login-popup-style5::before {
+        left: auto;
+        right: 20px;
+    }
+    .featured-courses-tabs .nav.nav-tabs {
+        max-width: 170px;
+        right: 10px;
+    }
+    .featured-courses-tabs {
+        padding: 0 16% 100px 8%;
+    }
+    .featured-courses-tabs .nav-tabs li a::before {
+        left: -26px;
+    }
+    .featured-courses-tabs .nav-tabs li a::after {
+        left: -37px;
+    }
+}
+
+/*tablet landscape view*/
+@media screen and (max-width: 1024px) and (min-width: 980px){
+    .learning-gal-txt {
+        padding-left: 0;
+    }
+    .heading-style-5 h2 {
+        font-size: 40px;
+    }
+    .theme-layout.boxed{width: 100%;} 
+    .container{padding: 0 15px;}
+    header,
+    header.sticky{
+    display: none;
+    }
+    .top-shop > i {
+        color: black;
+    }
+    .responsive-header {
+      display: block;
+    }
+    .menu-item-has-children:hover::before{
+      opacity:0;
+      visibility: hidden; 
+    } 
+    .theme-layout{
+      padding-top: 0 !important;  
+    }
+    .upload-image > form{
+      max-width: 65%; 
+    }
+    .funfact {
+        margin-right: 150px;
+    }
+    .counter {
+        font-size: 36px;
+    }
+    
+    .banner-info > h1{
+      font-size: 27px;
+      line-height: 38px;  
+    }
+    .why-coach > h5{font-size: 15px;}
+    .coach-info h3{font-size: 14px;}
+    .upload-image > form {max-width: 61%;}
+    .consult-sec > h1{font-size: 20px; line-height: 25px;}
+    .consult-sec{padding:63px 60px 55px 70px;}
+    .funfact{margin-right: 0; width: 50%;}
+    .event-info > h3{font-size: 17px;}
+    .event-detail ul li{width: 100%;}
+    .event-detail{margin-top: 20px;}
+    .prod-list-info a.button{padding: 12px 24px;}
+    .about-course > span{font-size: 15px; margin-top: 7px;}
+    .case-upper{bottom: -70%;}
+    .case-stdy > li{
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+    .responsive-header .search-n-cart .top-shop i {
+    color: #fff;
+}
+.feature-over-meta{top: 64%;}
+.welcom-gallery-note > h2 {
+    font-size: 30px;
+    line-height: 35px;
+}
+.welcom-gallery-note > span {
+    font-size: 15px;
+}
+.welcom-gallery-note > p {
+    font-size: 15px;
+    line-height: 26px;
+}
+.welcom-gallery-note {
+    padding: 55px 65px;
+}
+.option-set.new-course > li a {
+    padding: 4px 20px;
+}
+.latest-event-meta > h4 {
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+.latest-event-meta > span {
+    font-size: 13px;
+}
+.location {
+    font-size: 13px;
+}
+.notes-info > h3 {
+    font-size: 15px;
+}
+.latest-event-meta {
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+.verticla-midle {
+    max-width: 100%;
+}
+.guideline-package {
+    padding-left: 30px;
+}
+.package-tab {
+    padding-right: 30px;
+}
+.pkg-list > li {
+    font-size: 13px;
+}
+.guideline-package > h2 {
+    font-size: 34px;
+}
+.guideline-package > p {
+    font-size: 16px;
+}
+.feature-over-meta > h2 {
+    font-size: 40px;
+    margin-top: 10px;
+}
+.feature-over-meta > a {
+    margin-top: 40px;
+}
+.overlap-138 {
+    margin-top: -60px;
+}
+.featured-courses-tabs .nav.nav-tabs {
+    right: 0;
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+    max-width: 100%;
+}
+.featured-courses-tabs .nav-tabs li {
+    display: inline-block;
+    width: auto;
+}
+.featured-courses-tabs .nav-tabs li a::before {
+    left: 0;
+}
+.featured-courses-tabs .nav-tabs li a.active::after {
+    display: none;
+}
+.featured-courses-tabs {
+    padding: 0 2% 100px 2%;
+}
+.featured-courses-tabs .nav-tabs li a {
+    padding: 17px 10px;
+}
+.review-avatar {
+    width: auto;
+}
+.review-text-box {
+    margin-left: 0;
+    margin-top: 20px;
+}
+.review-text-box {
+    width: 100%;
+}
+.review-text-box::before {
+    display: none;
+}
+.sub-form input {
+    min-width: 390px;
+}
+
+}
+@media screen and (max-width: 980px){
+    .theme-layout.boxed{width: 100%;}    
+    .top-shop > i {
+       color: black;
+    }
+    header.sticky{display: none;}    
+    .contact-from form .row > div{padding-left: 10px;}  
+    .upper-meta > h2{font-size:30px; padding:10px 0;} 
+    .upper-meta > p{font-size: 17px; line-height: 25px;}
+    .theme-layout{padding-top:0 !important;}
+    .little-info{margin-right: 40px;}
+    p {
+      font-size: 13px;
+    }
+    
+    header {
+      display: none;
+    }
+    .responsive-header {
+      display: block;
+    }
+    .menu-item-has-children::before {
+      display: none;
+    }
+    .little-contact > li {
+      border-right: none;
+    }
+    .container,
+    .container-fluid {
+      padding: 0 15px;
+    }
+    .gap {
+      padding: 50px 0;
+    }
+    .no-top {
+      padding-top: 0;
+    }
+    .no-bottom {
+      padding-bottom: 0;
+    }
+    .no-gap {
+      padding: 0;
+    }
+    .overlap-30 {
+      margin-top: -60px;
+    }
+    .top-shop > span {
+      right: 0;
+    }
+    .top-shop::before {
+      display: none;
+    }
+    .services {
+      padding: 75px 15px 15px;
+    }
+    .blog-avatar > a {
+      width: 100%;
+    }
+    .blog-list-sec .blog-avatar {
+      max-width: 100%;
+    }
+    .blog-list-sec .blog-meta h2{font-size: 20px;}
+    .online-coaches > li {
+      width: 33.8%;
+    }
+    footer .widget {
+      margin-bottom: 30px;
+    }
+    .funfact {
+        margin-bottom: 40px;
+        margin-right: 0;
+        width: 50%;
+    }
+    .nav.nav-tabs.tab-video-btn > li:nth-child(2) {
+      position: absolute;
+      right: -60px;
+      top: 0;
+      -webkit-transform: scale(0.7);
+      -moz-transform: scale(0.7);
+      -ms-transform: scale(0.7);
+      -o-transform: scale(0.7);
+      transform: scale(0.7);
+    }
+    .nav.nav-tabs.tab-video-btn > li:nth-child(3) {
+      left: -40px;
+      position: absolute;
+      top: 70px;
+      -webkit-transform: scale(0.6);
+      -moz-transform: scale(0.6);
+      -ms-transform: scale(0.6);
+      -o-transform: scale(0.6);
+      transform: scale(0.6);
+    }
+    .tab-video-btn li.active{transform:scale(0.65);}
+    .video-sec-meta > h1,
+    .video-sec-meta > h1 span {
+      font-size: 30px;
+    }
+    .couch-info {
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .couch-avatar .button {
+      padding: 11px 18px;
+      font-size: 12px;
+    }
+    .couch-info span {
+      padding-bottom: 0;
+    }
+    .couch-info > h1 {
+      font-size: 30px;
+    }
+    .gap-botom {
+      margin-top: 30px;
+    }
+    .couch-info h4 {
+      padding-top: 10px;
+      float: left;
+      width: 100%;
+    }
+    .overlap-2 {
+      margin-top: 0 !important;
+    }
+    .feature-text {
+      bottom: auto;
+      top: 50px;
+      left: 30px;
+      max-width: 60%;
+    }
+    .banner-info > h1 {
+      font-size: 25px;
+      line-height: 35px;
+    }
+    .banner-info > span {
+      font-size: 16px;
+    }
+    .banner-info .button {
+      font-size: 13px;
+      padding: 10px;
+    }
+    .banner-info {
+      padding-top: 20px;
+      padding-bottom: 30px;
+    }
+    .prodct-avatar > h3 {
+      font-size: 18px;
+    }
+    .ext-topgap {
+      padding-top: 80px;
+      padding-bottom: 80px;
+    }
+    aside {
+      margin-top: 50px;
+      float: left;
+      width: 100%;
+    }
+    .appointment-page {
+      width: 50%;
+    }
+    .wpb_widgetised_column .appointment-page{
+        width: 100%;
+    }
+    .event-detail ul li {
+      width: 100%;
+    }
+    .service-box {
+      bottom: 20px;
+      left: 15px;
+      width: 340px;
+    }
+    .cart-sec table tr td .cart-meta{
+      overflow: initial;
+      padding-left: 0; 
+    }
+    .cart-meta > span{
+      max-width: 100%;
+      padding-top: 10px;  
+    }
+    .checkout-fields form label{
+      margin-right: 5px;  
+    }
+    .checkout-fields > .row.merged .col-md-6:last-child .chekout-title{margin-top: 30px;}
+    .chekout-title {
+        font-size: 20px;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .main-heading > p{
+      max-width: 100%;  
+    }
+    .appoint-form.style2{
+      padding-left: 0;
+      padding-right: 0;
+    }
+    .appoint-form.style2 .button {
+        font-size: 10px;
+        padding: 16px 5px;
+        width: 100%;
+    }
+    .send-query{float:left;}
+    .about-coach{padding-left: 0;}
+    .profile-avatar .button{
+      padding: 10px 30px; 
+    }
+    .tab.coaching > li a{
+      font-size: 12px;  
+    }
+    .coach-info h3{
+      font-size: 17px;  
+    }
+    .subscriber-meta.style2 > a{
+      float: right; 
+    }
+    .subscriber-meta.style2 .coach-detail{width: 290px;}
+    .coach-timing.coach {
+        padding: 12px 10px;
+        text-align: center;
+        width: 130px;
+    }
+    .coach-timing{
+      padding: 10px;
+      width: 140px; 
+    }
+    .upload-image > form{max-width: 22%;}
+    .consult-sec .nice-select{
+      margin-bottom: 20px;  
+    }
+    .couch-info > ul li{margin-right:0;}
+    .videobg-meta{
+      left: 60px;
+      max-width:80%;  
+    }
+    .main-heading > h1{font-size:34px;}
+    
+    .funfact:last-child::before {
+        font-size: 36px;
+        right: 120px;
+        top: 170px;
+    }
+    .sponsor-caro .owl-controls{bottom: -30px;}
+    .upper-meta > span{margin-top: 10px;}
+    .appoint-form{padding-top:0;}
+    .cart-meta > span{font-size: 14px; line-height: 20px; margin-left: 10px;}
+    .counter, .funfact .symbol{font-size: 30px;}
+    .video-tab{margin-top: 20px;}
+    .nav.nav-tabs.tab-video-btn > li:nth-child(2){right: 160px;}
+    .nav.nav-tabs.tab-video-btn > li:nth-child(3){left: 180px;}
+    .event-info > h3{font-size: 17px;}
+    .single-meta > h1.single-meta-title{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    .prod-list-info a.button{padding: 12px 24px;}
+    .woocommerce .cart-sec form table tbody td{
+        display: table-cell; 
+        width: 100%; 
+        text-align: center !important;
+        border-width: 1px !important;
+    }
+    .coupon-code > input{border-width: 1px;}
+    .woocommerce table.shop_table_responsive tr td::before, .woocommerce-page table.shop_table_responsive tr td::before,
+    .woocommerce .cart-sec form table tbody td label{display:none;}
+    .shop_table_responsive {
+        display: block;
+        overflow-x: auto;
+        width: 100%;
+    }
+    .about-course > h4{width: 100%; max-width: 100%;}
+    .about-course > span{font-size: 15px; margin-top: 7px;}
+    .sponsor-caro{margin-bottom: 50px;}
+    .instructure-meta.style2{padding-top: 0;}
+    .prod-list-info.detail-meta{padding: 20px;}
+    .product-detail .prod-list-info .cart{width: 100%;}
+    .single_add_to_cart_button.button{margin-top: 0 !important;}
+    .woocommerce div.product form.cart div.quantity{margin-bottom: 20px;}
+    .overlap-120{margin-top: 0;}
+    .online-coaches .nav.nav-tabs.coaching > li{margin-bottom: 25px;}
+    .blog-avatar img{width: 100%;}
+    .purchaser > a {
+        opacity: 1;
+        transform: scale(1);
+        visibility: visible;
+        font-size:12px;
+    }
+    .blog-sec > .row > div:first-child{
+        margin-bottom: 50px;
+    }
+    .package{margin-bottom: 45px;}
+    .feature-caro-btn{
+        left: 60px;
+        bottom: 30px;
+    }
+    .sale-sec{margin-top: 30px;}
+    .coach-finding{padding: 0 30px;}
+    .send-query > a {
+        font-size: 12px;
+    }
+    .send-query {
+        width: 110px;
+    }
+    .coaches-list .about-coach {
+        padding-left: 20px;
+        width: 58%;
+    }
+    .coaches-list .about-coach > span {
+        padding-left: 0;
+    }
+    .coaches-list .about-coach > h4 {
+        font-size: 20px;
+    }
+    .profiel-meta > h4,
+    .profiel-meta > span{
+        width: 100%;
+    }
+    .profiel-meta > a{float: left; margin-top: 0;}
+    .promo-package li{width: 49%;}
+    .rating-avg{margin-left: 5px;}
+    .overlap-40{margin-top: 30px;}
+    .woocommerce table.shop_table{border:0 none;}
+    .cart-sec table tr td{width: 900px !important;}
+    .eventpage blockquote{background-size: cover;}
+    #customer_login .woocommerce-form.woocommerce-form-login.login .form-row{display: block;}
+    .top-area{transform: translate(-46%, -50%);}
+    .image-uppermeta > h1 {
+        font-size: 40px;
+    }
+    .image-uppermeta > h2 {
+        font-size: 35px;
+    }
+    .image-uppermeta > p {
+        font-size: 15px;
+        line-height: 20px;
+        max-width: 90%;
+        width: 90%;
+    }
+    .img-gal figure img {
+        width: 100%;
+    }
+    .business-meta .busine-title {
+        margin-bottom: 30px;
+        padding-right: 0;
+    }
+    footer.style2 .vc_row > div{margin-bottom: 30px;}
+    .latest-case{margin-bottom: 0;}
+    .busine-title > h1 {
+    text-align: left;
+    }
+    .busine-title .new-btn-brdr {
+        float: left;
+    }
+    .promo-vid > figure {
+        margin-top: -90px;
+    }
+    .promo-box {
+        padding: 30px;
+    }
+    .promo-data {
+        padding-right: 0;
+    }
+    .new-promo-funfact .funfact .counter {
+        display: inline-block;
+        font-size: 40px;
+        width: 100%;
+    }
+    .new-promo-funfact .funfact > .fun-info {
+        padding-left: 0;
+        width: 100%;
+    }
+    .new-promo-funfact {
+        margin: 50px auto 25px;
+    }
+    .sec-title {
+        margin-bottom: 30px;
+        padding-left: 0;
+        width: 100%;
+    }
+    .case-filter {
+        width: 100%;
+    }
+    .case-stdy > li {
+        margin-right: 20px;
+    }
+    .case-filter .case-stdy {
+        margin-bottom: 30px;
+    }
+    .price-tbl {
+        margin-bottom: 30px;
+    }
+    .banner-meta > h4 {
+        font-size: 28px;
+    }
+    .banner-meta > p {
+        font-size: 14px;
+    }
+    .busine-des{margin-left: 0;}
+    .feature-caro .owl-prev::before, .feature-caro .owl-next::before {
+        font-size: 20px;
+        height: 42px;
+        line-height: 40px;
+        width: 42px;
+    }
+    .owl-next::before{
+        right: 20px;
+    }
+    .guideline-package {
+        padding-left: 0;
+    }
+    .package-tab {
+        padding-right: 0;
+    }
+    .student-slider {
+        padding: 0;
+    }
+    .update-newsmeta > h4 {
+        font-size: 15px;
+        letter-spacing: 0;
+        line-height: 20px;
+    }
+    .update-newsmeta {
+        padding: 30px 10px;
+    }
+    .guideline-package {
+        display: inline-block;
+        margin-bottom: 40px;
+        width: 100%;
+    }
+    .welcome-gallery .owl-prev::before {
+        right: 73px;
+    }
+    .latest-event-meta{
+        padding-bottom: 30px;
+        margin-top: 30px;
+    }
+
+.welcome-parallax > h2 {
+    font-size: 30px;
+}
+.welcome-parallax > span {
+    font-size: 16px;
+}
+.welcome-parallax .new-btn {
+    padding: 13px 25px;
+}
+.news-letter > form {
+    max-width: 80%;
+}
+.responsive-header .search-n-cart .top-shop i {
+    color: #fff;
+ } 
+ .slider-student li.slick-slide figure{width: 24%;} 
+ .slider-student > button::before{font-size: 25px; top: -3px;}
+ .slider-student > button.slick-next, .slider-student > button.slick-prev{bottom: 40px;}
+
+.feature-over-meta > h2 {
+    font-size: 30px;
+}
+.feature-over-meta > span {
+    display: none;
+}
+.feature-over-meta > a {
+    font-size: 13px;
+    margin-top: 30px;
+    padding: 14px 20px;
+}
+.new-feature-caro .owl-dots {
+    bottom: 20px;
+    right: 30px;
+}
+.overlap-138 {
+    margin-top: -60px;
+}
+.welcome-gallery{margin-top: 20px;}
+.feature-over-meta > h2 span::after{
+    bottom: 4px; 
+    height: 4px;
+}
+.featured-courses-tabs .nav.nav-tabs {
+    right: 0;
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+    max-width: 100%;
+}
+.featured-courses-tabs .nav-tabs li {
+    display: inline-block;
+    width: auto;
+}
+.featured-courses-tabs .nav-tabs li a::before {
+    left: 0;
+}
+.featured-courses-tabs .nav-tabs li a.active::after {
+    display: none;
+}
+.featured-courses-tabs {
+    padding: 0 2% 100px 2%;
+}
+.featured-courses-tabs .nav-tabs li a {
+    padding: 17px 10px;
+}
+.review-avatar {
+    width: auto;
+}
+.review-text-box {
+    margin-left: 0;
+    margin-top: 20px;
+}
+.review-text-box {
+    width: 100%;
+}
+.review-text-box::before {
+    display: none;
+}
+.learning-gal-txt {
+    padding-left: 0;
+    margin-top: 30px;
+}
+.learning-service.home5-style.text-center {
+    margin-bottom: 30px;
+}
+.heading-style-5 h2 {
+    font-size: 40px;
+}
+.review-text-box {
+    padding: 30px;
+}
+.sub-form input {
+    min-width: 100%;
+}
+
+}
+/*mobile landscape view*/
+
+@media screen and (max-width: 640px) and (min-width: 500px){
+    .footer-meta > p{max-width: 90%;}
+    .footer-meta > form{width: 65%;}
+    .prod-info{padding: 12px 20px;}
+    .videobg-meta > h3{font-size: 30px;} 
+    .videobg-meta > h3 i{font-size: 40px;}  
+    .overlap-120{margin-top: 40px;}
+    .info{padding-left: 53px;}   
+    .info > p {
+        font-size: 14px;
+        line-height: 22px;
+        padding-top: 0;
+    }
+    .info > a {
+        font-size: 12px;
+        line-height: 30px;
+        margin-top: 20px;
+        width: 100px;
+    }
+    .purchaser > a {
+        opacity: 1;
+        transform: scale(1);
+        visibility: visible;
+    }
+    .main-heading > h1{font-size:30px;}
+    .video-sec-meta.style2 {
+        padding-left: 0;
+        padding-top: 0;
+        width: 200%;
+    }
+    .video-sec-meta .button{padding: 11px; font-size: 11px;}
+    .nav.nav-tabs.tab-video-btn > li:nth-child(2) {
+        right: 0;
+    }
+    .nav.nav-tabs.tab-video-btn > li:nth-child(3){top:80px; left: 160px;} 
+    .counter{font-size: 25px;}
+    .funfact-info > h2{font-size: 25px;}
+    .owl-controls{left:100%;}
+    .cart-meta > span{font-size: 13px; line-height: 18px;}
+    .cart-sec table tr th{padding:10px 20px; font-size: 11px;}
+    .cart-sec table tr td .cart-meta{width: 200px;}
+    .cart-list-quantity, .prices{width: 95px;}
+    .single.gallery .row.merged > div{width: 50%;}
+    .event-info > h3{font-size: 17px;}
+    .cart-list-quantity, .prices{width: 100%;}
+    .prod-list-info .prices > ins{font-size: 18px;}
+    .shop_table_responsive {
+        display: block;
+        overflow-x: auto;
+        width: 100%;
+    }
+    .prod-list-info.detail-meta{padding: 20px;}
+    .single_add_to_cart_button.button{margin-top: 0 !important;}
+    .little-info{margin-bottom: 20px;}
+    .appoint-form.style2 {
+        margin-top: 20px;
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+    
+    .row.merged.masonry.scroll > div {
+        float: left;
+        width: 49.5%;
+    }
+    .responsive-header .search-n-cart .top-shop i {color: #fff;}
+
+
+.overlap-138 {
+    margin-top: -60px;
+}
+.update-news{margin-bottom: 30px;}
+}
+@media screen and (max-width: 640px){ 
+    .overlap-120{margin-top:0;}
+    .course-list > li{padding: 20px;}
+    .prod-list-info.detail-meta{padding: 20px;}
+    .coaches-list > li{padding: 20px;}
+    .coaches-list .about-coach{width: 50%;}
+    .boxed .consult-sec {
+        padding: 40px 25px;
+    }
+   .busine-title > h1 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .promo-vid {
+        padding-right: 10px;
+        width: 100%;
+    }
+    .promo-desc > p {
+        font-size: 14px;
+        max-width: 100%;
+    }
+    .promo-box {
+        padding: 20px 10px;
+    }
+    .promo-data {
+        padding-left: 0;
+        width: 100%;
+    }
+    .new-promo-funfact .funfact {
+        width: 100%;
+    }
+    .sec-title > h4 {
+        font-size: 25px;
+    }
+    .case-stdy > li a {
+        font-size: 12px;
+    }
+    .case-stdy > li {
+        margin-bottom: 10px;
+    }
+    .case-upper > h4 {
+        font-size: 18px;
+    }
+    .case-upper > span {
+        font-size: 14px;
+    }
+    .border {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+    .user-quotation > p {
+        font-size: 15px;
+        text-align: justify;
+    }
+    .main-heading.style2 > h1 {
+        font-size: 24px;
+    }
+    .main-heading.style2 > span {
+        font-size: 13px;
+    }
+    .banner-meta, .banner-img {
+        width: 100%;
+    }
+    .banner-meta {
+        margin-bottom: 30px;
+    }
+    .banner-meta > h4 {
+        font-size: 22px;
+        margin-right: 0;
+    }
+    .banner-meta > p {
+        padding-right: 0;
+    }
+    .banner-meta > span {
+        font-size: 13px;
+        padding-right: 0;
+    }
+    .banner-meta > span i {
+        font-size: 14px;
+        margin-right: 5px;
+    }
+    .image-uppermeta {
+        display: inline-block;
+        margin-top: 30px;
+        position: unset;
+        transform: translate(0px);
+    }
+    .image-uppermeta > h1, .image-uppermeta > h2 {
+        color: #333;
+        font-size: 27px;
+        line-height: 36px;
+        max-width: 100%;
+        width: 100%;
+    }
+    .image-uppermeta > p {
+        color: #333;
+        max-width: 100%;
+        width: 100%;
+    }
+    .feature-caro .owl-controls {
+        right: 0;
+    }
+    .new-promo-funfact{
+        display: block;
+    }
+    footer.style2 .vc_row > div{
+        padding: 0;
+    }
+.overlap-138 {
+    margin-top: -60px;
+}
+.feature-over-meta {
+    text-align: center;
+    top: 69%;
+    width: 100%;
+}
+.feature-over-meta > h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+.feature-over-meta > p {
+    font-size: 19px;
+}
+.welcom-gallery-note > h2 {
+    font-size: 30px;
+    line-height: 35px;
+}
+.option-set.new-course > li a {
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.guideline-package > h2 {
+    font-size: 30px;
+    line-height: 42px;
+}
+.buyer-deta > p {
+    font-size: 16px;
+}
+  .update-news{margin-bottom: 30px;}  
+
+.learning-gal-txt h2 {
+    font-size: 30px;
+}
+.sponsors-images2 {
+    margin-bottom: 20px;
+}
+.photo-img img {
+    width: 100%;
+}
+.sub-newsletter {
+    padding: 50px 0;
+}
+.sub-form {
+    padding-bottom: 50px;
+}
+.testi-review-caro {
+    padding: 100px 0 80px;
+}
+.sub-form button {
+    margin-top: 12px;
+}
+.heading-style-5.text-center.gap-botom {
+    margin-top: 0;
+}
+
+}
+@media screen and (max-width: 500px){ 
+    body,
+    html {
+      overflow-x: hidden;
+    } 
+    
+    p {
+      font-size: 13px;
+    }
+    
+    header {
+      display: none;
+    }
+    .responsive-header {
+      display: block;
+    }
+    .container,
+    .container-fluid {
+      padding: 0 15px;
+    }
+    .gap {
+      padding: 50px 0;
+    }
+    .no-gap {
+      padding: 0;
+    }
+    .gap.no-top{padding-top: 0;}
+    
+    .little-contact > li {
+      font-size: 9px;
+    }
+    .top-search form input {
+      width: 205px;
+    }
+    .overlap-30 {
+      margin-top: 0;
+    }
+    .main-heading > h1 {
+      font-size: 22px;
+    }
+    .main-heading > p {
+      max-width: 100%;
+    }
+    .video-sec-meta {
+      padding: 0;
+    }
+    .popup {
+      width: 300px;
+    }
+    .subscribe-popup > span {
+      max-width: 80%;
+    }
+    .subscribe-popup form input {
+      width: 90%;
+    }
+    .blog-meta > h2 {
+      font-size: 16px;
+      line-height: 23px;
+    }
+    .blog-meta {
+      margin-bottom: 30px;
+    }
+    .couch-info > ul li a {
+      padding: 7px 14px;
+    }
+    .couch-info {
+      padding-bottom: 30px;
+    }
+    .lecture-meta > a {
+      font-size: 20px;
+    }
+    .happy-caro {
+      padding: 0;
+    }
+    .happy-client-caro li::before {
+      top: 55%;
+    }
+    .happy-client-caro li::after {
+      right: 20px;
+    }
+    .consult-sec {
+      float: left;
+      padding: 20px;
+      width: 100%;
+      margin-top: 30px;
+    }
+    .consult-sec > h1 {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .nav.nav-tabs.tab-video-btn > li:nth-child(2) {
+      position: absolute;
+      right: -70px;
+      top:0;
+      -webkit-transform: scale(0.6);
+      -moz-transform: scale(0.6);
+      -ms-transform: scale(0.6);
+      -o-transform: scale(0.6);
+      transform: scale(0.6);
+    }
+    .nav.nav-tabs.tab-video-btn > li:nth-child(3) {
+      top: 80px;
+      left: 10px;
+    }
+    .nav.nav-tabs.tab-video-btn > li {
+      margin-top: 20px;
+      margin-left: -20px;
+    }
+    .nav.nav-tabs.tab-video-btn li.active {
+      -webkit-transform: scale(0.65) !important;
+      -moz-transform: scale(0.65) !important;
+      -ms-transform: scale(0.65) !important;
+      -o-transform: scale(0.65) !important;
+      transform: scale(0.65) !important;
+    }
+    .prod-sale:hover {
+      -webkit-transform: translate(0);
+      -moz-transform: translate(0);
+      -ms-transform: translate(0);
+      -o-transform: translate(0);
+      transform: translate(0);
+    }
+    .prod-sale {
+      margin-bottom: 30px;
+    }
+    .online-coaches > li {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .little-info {
+      margin-right: 40px;
+      margin-bottom: 10px;
+    }
+    .footer-meta > p {
+      max-width: 100%;
+    }
+    .footer-meta > form{
+        display: inline-block;
+        width: 90%;
+    }
+    .footer-meta input {
+      width: 100%;
+    }
+    .error-page form input {
+      max-width: 80%;
+    }
+    .error-page > em {
+      font-size: 27px;
+    }
+    .appoint-form > form input {
+      margin-bottom: 10px;
+    }
+    .appoint-form > h2 {
+      font-size: 21px;
+      max-width: 100%;
+    }
+    .blog-avatar {
+      margin-bottom: 0 !important;
+    }
+    .pagenation > li {
+      margin-bottom: 10px;
+      margin-right: -1px;
+    }
+    .blog-list-sec .blog-meta h2 {
+      font-size: 20px;
+    }
+    .contact-us > ul li i {
+      line-height: 35px;
+      width: 35px;
+    }
+    .contact-us > ul li em {
+      font-size: 13px;
+      width: 86%;
+    }
+    .likes > li {
+      font-size: 11px;
+    }
+    .login-area > p {
+      max-width: 100%;
+    }
+    .top-area > span {
+      font-size: 20px;
+    }
+    .services > h1 {
+      font-size: 22px;
+    }
+    blockquote {
+      padding: 26px 10px;
+      font-size: 16px;
+    }
+    .instructure-meta {
+      margin-top: 20px;
+    }
+    .ratings > li {
+      width: 49%;
+    }
+    .comment-meta > i {
+      float: left;
+      width: 100%;
+      margin-left: 0;
+    }
+    .promo-detail {
+      padding: 40px 30px;
+    }
+    .progres {
+      width: 100%;
+    }
+    .rating-line {
+      margin-top: 20px;
+    }
+    .rating-line .rating {
+      margin-left: 0;
+    }
+    .appointment-page {
+      width: 100%;
+    }
+    .event-detail {
+      padding: 20px;
+    }
+    .service-box {
+      position: unset;
+      width: 100%;
+    }
+    .coming-soon-top {
+      padding: 0 20px;
+    }
+    .coming-soon-top .social-media {
+      float: left;
+      margin-bottom: 50px;
+      margin-top: 0;
+      width: initial;
+    }
+    .coming-meta > p {
+      max-width: 100%;
+    }
+    .count,
+    .coming-meta form input {
+      width: 100%;
+    }
+    .ClassyCountdown-value > div {
+      font-size: 20px;
+    }
+    .ClassyCountdown-wrapper > div span {
+      font-size: 7px !important;
+    }
+    .cart-sec table tr td{
+      padding: 15px 5px 15px 20px;  
+    }
+    .proceed{
+      margin-top: 35px;
+      float:left; 
+    }
+    .total-area > ul li span{
+      margin-right: 70px; 
+    }
+    .total-area > ul li.order-total{
+      max-width: 100%;  
+    }
+    .checkout-bg{
+      padding: 30px 20px; 
+    }
+    .checkout-fields .button{
+      float:left;
+      margin-top: 20px; 
+    }
+    .checkout-fields  .nice-select{margin-top: 10px}
+    .coach-finding{
+      padding: 0; 
+    }
+    .appoint-form.style2{padding-right: 10px;}
+    .coaches-list > li{
+      padding: 30px 30px; 
+    }
+    .coach-online-profile .online-coaches > li{
+      width: 100%;  
+    }
+    .profiel-meta > a{
+      float:left;
+      margin-top: 20px; 
+    }
+    .upload-image > form {
+        max-width: 49%;
+    }
+    .tab-content.edit-profile {
+        float: left;
+        margin-top: 30px;
+        width: 100%;
+    }
+    .subscriber-meta{
+      width: 100%;  
+    }
+    .coach-detail{
+      padding-left: 0;
+      padding-top: 15px;  
+    }
+    .coach-timing{
+      margin-top: 15px; 
+    }
+    .subscriber-meta.style3 {
+        padding-bottom: 0;
+    }
+    .subscriber-meta.style3 .coach-detail,
+    .subscriber-meta.style2 .coach-detail,
+    .coach-detail{
+      width: 100%;  
+    }
+    .feature-caro-btn{
+      display: none !important; 
+    }
+    .feature-text{
+      color: #333;  
+    }
+    .feature-text > h3{
+      width: 100%;
+      font-size: 15px;
+      line-height: initial; 
+    }
+    .popup,
+    .popup-wraper{
+      width: 100%;  
+    
+    }
+    .sponsor-caro .owl-controls{bottom: -38px;}
+    .about-course{
+      display:inline-block;
+      padding-left:0; 
+    }
+    .about-course > h4 {
+        font: bold 17px "montserrat";
+        margin-top: 15px;
+        max-width: 100%;
+        width: 100%;
+    }
+    .feature-caro-btn .owl-next::before{left: 10px;}
+    .feature-caro-btn .owl-prev::before{left: -93px;}
+    .rating-sec.gray-bg{
+      padding: 25px 20px; 
+    }
+    .owl-controls {
+        right: initial;
+        top: 94%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .owl-dot{
+      display:inline-block;
+    }
+    .owl-dot.active {
+        height: 10px;
+        width: 30px;
+    }
+    .blog-meta > ul,
+    .blog-meta > p{
+      padding-top: 10px;  
+    }
+    .package{
+      margin-bottom: 30px;  
+    }
+    .happy-client-caro{
+      padding: 20px 0;  
+    }
+    .video-tab{
+      margin-top: 10px; 
+    }
+    .single.gallery .row.merged > div a img{width: 100%;}
+    .blog-single-page .single-meta .social-media {
+        float: left;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .buyer-single-page .single-meta > h1 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .videobg-meta {
+        left: 20px;
+        max-width: 100%;
+        width: 100%;
+    }
+    .videobg-meta > h3 {
+        font-size: 30px;
+    }
+    .videobg-meta > h3 i {
+        font-size: 37px;
+    }
+    .info {
+        padding-left: 46px;
+        padding-right: 20px;
+    }
+    .info > p {
+        font-size: 15px;
+        max-width: 90%;
+        width: 90%;
+    }
+    .happy-client > h2{font-size: 25px;}
+    .happy-client > span{font-size: 14px;}
+    .banner-info > h1{font-size: 21px;}
+    .video-sec-meta > h1, .video-sec-meta > h1 span{font-size: 22px;}
+    .video-sec-meta .button{font-size:11px; padding: 11px 10px; }
+    .coach-info h3{font-size: 16px;}
+    .funfact-info{padding-left: 0;}
+    .funfact-info > h2{font-size: 22px;}
+    .info > a {
+        font-size: 12px;
+        line-height: 30px;
+        margin-top: 20px;
+        width: 100px;
+    }
+    .purchaser > a {
+        opacity: 1;
+        transform: scale(1);
+        visibility: visible;
+    }
+    .banner-info{padding: 0;}
+    .couch-avatar .button{padding: 11px; font-size: 11px;}
+    .couch-info > h1{font-size: 24px;}
+    .couch-info span{font-size: 12px;}
+    .col-heading > h2{font-size: 23px;}
+    .upper-meta > h2{font-size:18px; padding:10px 0; margin-top: -30px;}  
+    .upper-meta > p{font-size: 10px; line-height: 10px;}
+    .upper-meta > img{transform:scale(0.3);}
+    .upper-meta > span{
+        font-size: 10px;
+        font-weight: normal;
+        letter-spacing: 2px;
+        margin-top: 0;  
+    }
+    .upper-meta{top: 38%;}
+    .row.merg > div {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .appoint-form form .row.merg input[type="text"] {
+        margin-bottom: 0;
+    }
+    .appoint-form .button {
+        font-size: 10px;
+        padding: 10px 13px;
+    }
+    .appoint-form > form label span {
+        padding: 0;
+    }
+    .blog-list-sec > h2 {
+        font-size: 18px;
+        line-height: 26px;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .error-page > span{
+      font-size: 70px;  
+    }
+    .error-page > em{font-size: 14px;}
+    .error-page > form {
+        max-width: 100%;
+    }
+    .login-area form a{font-size:11px;}
+    .login-area form button {
+        line-height: 30px;
+        margin-left: 0;
+        margin-right: 40px;
+        width: 130px;
+    }
+    .login-area > h4{font-size:20px;}
+    .login-area form input{padding:10px 20px;}
+    .search-area form input{padding:10px 20px;}
+    .blog-list-sec > .row > div{margin-bottom: 10px;}
+    .single-meta > h5{font-size: 14px;}
+    .contact-from form .row > div{
+      padding-left: 10px; 
+    }
+    .contact-from .button{
+      padding: 10px 20px;
+      font-size: 14px;  
+    }
+    .contact-from form input, .contact-from form textarea{
+      padding: 10px 20px; 
+    }
+    
+    .sale-sec.style2 .prod-sale .purchaser {
+        opacity: 0;
+        visibility: hidden;
+    }
+    .sale-sec.style2 .prod-sale:hover .purchaser {
+        opacity: 1;
+        top: 70px;
+        visibility: visible;
+    }
+    .search-sec .main-heading > p{
+      padding-bottom: 10px; 
+    }
+    .event-info > h3{font-size: 15px;}
+    .event-date-box{padding:10px 0; width: 57px;}
+    .event-date-box > span{font-size: 20px;}
+    .single-meta > h1{font-size: 18px;}
+    .event-detail > span{font-size: 25px; padding-bottom: 20px;}
+    
+    .bread-crumb > li{margin-right:20px;}
+    .bread-crumb > li::before{right: -15px;}
+    .cart-meta > span{font-size: 13px; line-height: 18px;}
+    .cart-sec table tr th{padding:10px 20px; font-size: 11px;}
+    .cart-sec table tr td .cart-meta{width: 200px;}
+    .cart-list-quantity, .prices{width: 95px;}
+    .contact-us > h3{font-size: 24px;}
+    footer{padding-top:45px; padding-bottom:50px;}
+    .footer-meta > p{font-size: 14px;}
+    .package .package-detail > .button {
+        font-size: 12px;
+        padding: 11px 20px;
+    }
+    .happy-caro{
+        max-height: auto;
+        min-height: auto;
+    }
+    .happy-client::before{top: 50%;}
+    .login-area:last-child{margin-bottom: 30px;}
+    .margin-65{margin-bottom: 0 !important;}
+    
+    .product-list .figure {
+        max-width: 100%;
+        min-width: 100%;
+        width: 100%;
+    }
+    .prod-list-info {
+        padding: 30px;
+        width: 100%;
+    }
+    .prod-list-info a.button {
+        font-size: 10px;
+        padding: 10px;
+    }
+    .prod-list-info .add_to_wishlist{margin-left: 6px;}
+    .cart-list-quantity, .prices{width: 100%;}
+    .prod-list-info .prices > ins{font-size: 18px;}
+    #ship-to-different-address label{margin-top: 0;}
+    .course-list > li{padding: 20px;}
+    .profiel-meta > h4{font-size: 22px; margin-top: 15px;}
+    .services.serv2 .services-col:last-child{margin-bottom: 0;}
+    .checkout_coupon p.form-row input.button{padding: 10px; margin-top: 8px;}
+    .post-password-form > p input[type="submit"]{padding: 0 7px;}
+    .comment-meta {
+        display: block;
+        padding-left: 0;
+        width: 100%;
+    }
+    .comment-avatar {
+        margin-bottom: 15px;
+        max-width: 40%;
+        width: 40%;
+    }
+    .comments-area > ul li ul.children {
+        padding-left: 0;
+    }
+    .prod-list-info.detail-meta{padding: 20px;}
+    .mor-pix {
+        position: unset;
+        transform: translate(0px);
+        width: 100%;
+    }
+    .mor-pix ul li {
+        width: 32.1%;
+    }
+    .product-scroller {
+        height: auto;
+        max-height: 105px;
+        max-width: 290px;
+        width: 100%;
+    }
+    .overlap-120{margin-top: 0px;}
+    .background-video, .bv-video-wrap{height: 400px;}
+    .gallery-columns-3 .gallery-item {
+        max-width: 50%;
+    }
+    .coach-boy{margin-top: 30px;}
+    .page-template-tpl-wishlist .table-cart tbody tr td{line-height: initial; vertical-align: middle;}
+    .page-template-tpl-wishlist .table-cart thead tr th{vertical-align: middle;}
+    .page-template-tpl-wishlist .table-cart tbody tr td.cart-title > span{width: 200px; display: block;}
+    footer .vc_row > div:last-child .widget{margin-bottom: 0;}
+    .coaches-list .about-coach {
+        margin-top: 10px;
+        padding-left: 0;
+        width: 100%;
+    }
+    .coaches-list .send-query {
+        width: 100%;
+    }
+    .coaches-list .about-coach .membership > li::before {
+        display: none;
+    }
+    .profiel-meta {
+        margin-top: 15px;
+    }
+    .profiel-meta > h4 {
+        font-size: 20px;
+        margin-top: 0;
+    }
+    .rating-line > li .progress {
+        width: 100%;
+    }
+    .rating-line > li {
+        margin-bottom: 20px;
+    }
+    .rating-line > li .rating-avg {
+        margin-left: 0;
+        margin-top: 4px;
+    }
+    .nav.nav-tabs.coaching > li {
+        margin-bottom: 15px;
+        margin-right: 10px;
+    }
+    .promo-package li{width: 100%;}
+    #swal2-title{font-size: 20px; line-height: 26px;}
+    .coupon-code input.button{
+        position: relative;
+        top: 10px;
+    }
+    .top-area{
+        transform: translate(-42%, -50%);
+    }
+    .bread-crumb > li::before{right: -10px !important;}
+    .blog-list-sec > div:nth-last-child(2) .row.spacing{margin-bottom: 0;}
+    .blog-meta > ul li{margin-right: 10px;}
+    .single-meta > h6{font-size: 14px;}
+    .upper-meta{display: none;}
+}
+/*small mobile landscape view*/
+@media screen and (max-width: 480px){
+ .top-shop > i {
+        color: black;
+    }
+    .services-caro .owl-dot {
+    margin-right: 2px;
+}
+.overlap-138 {
+    margin-top: 0px;
+}
+.option-set.new-course > li a {
+    font-size: 11.5px;
+    padding: 2px 12px;
+}
+.feature-over-meta {
+    top: 54%;
+}
+.welcom-gallery-note {
+    padding: 40px 30px;
+}
+.welcom-gallery-note > h2 {
+    font-size: 25px;
+}
+.welcome-gallery .owl-controls {
+    right: 0;
+    top: 0;
+    transform: translate(0);
+}
+.latest-event {
+    padding: 50px 30px 0;
+}
+.latest-event-meta > h4 {
+    font-size: 16px;
+}
+.latest-event-meta > span {
+    font-size: 13px;
+}
+.verticla-midle {
+    max-width: 100%;
+}
+.guideline-package > h2 {
+    font-size: 22px;
+    line-height: 30px;
+}
+.guideline-package > p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.pkg-btn .nav-item > a {
+    font-size: 14px;
+    padding: 12px 45.8px;
+}
+.pkg-list {
+    margin-top: 30px;
+}
+.pkg-list > li {
+    float: left;
+    font-size: 12px;
+    margin-bottom: 10px;
+    width: 50%;
+}
+.pkg-content > .tab-pane {
+    padding: 40px;
+}
+.slider-student li.slick-slide figure {
+    vertical-align: top;
+    width: 100%;
+    padding: 0 10px;
+}
+.slider-student li.slick-slide.slick-center .buyer-deta {
+    padding: 20px;
+    width: 100%;
+}
+.latest-courses .masonry{margin: 0;}
+.news-letter > span {
+    display: inline-block;
+    font-size: 22px;
+    line-height: 24px;
+    width: 100%;
+}
+.news-letter > form {
+    max-width: 100%;
+}
+.feature-over-meta > h2 span::after{display: none;}
+.main-heading.style3 > h1{font-size: 24px; line-height: 28px;}
+}
+@media screen and (max-width: 420px) and (min-width: 376px){
+    .pkg-btn .nav-item > a {
+        font-size: 14px;
+        padding: 12px 34.8px;
+    }
+}
+@media screen and (max-width: 375px) and (min-width: 361px){
+    .pkg-btn .nav-item > a {
+        font-size: 14px;
+        padding: 12px 27.9px;
+    }
+    .slider-student > button::before {
+        transform: scale(0.6);
+    }
+    .slider-student > button.slick-next::before {
+        left: auto;
+        right: -20px;
+    }
+}
+@media screen and (max-width: 360px) and (min-width: 320px){
+    .counter{font-size: 30px;}
+    .funfact:last-child::before{font-size:25px;}  
+    .funfact > h4{font-size: 13px;}
+    .prod-list-info, .prod-list-info.detail-meta{padding: 20px;}
+    .prod-list-info .add_to_wishlist{font-size: 10px;}
+    .cart-sec table tr td{width: 327px !important;}
+    .res-logoarea {padding: 0 20px;}
+    .overlap-138 {margin-top: 0px;}
+.feature-over-meta > h2 {
+    font-size: 20px;
+}
+.feature-over-meta > h2 span::after {
+    display: none;
+}
+.feature-over-meta > a {
+    font-size: 10px;
+    margin-top: 20px;
+}
+.latest-courses > h2 {
+    font-size: 24px;
+}
+.pkg-btn .nav-item > a {
+    padding: 10px 26px;
+}
+.twitter-stream {
+    padding-left: 0;
+}
+.news-letter form button {
+    border: medium none;
+    height: 50px;
+    margin-top: 20px;
+    position: unset;
+    width: 150px;
+}
+.slider-student > button::before {
+        transform: scale(0.6);
+    }
+    .slider-student > button.slick-next::before {
+        left: auto;
+        right: -20px;
+    }
+    .slider-student > button.slick-prev{left: 270px;}
+}
+@media screen and (max-width: 320px){
+   .funfact:last-child::before{right: 85px;}
+   .funfact{margin-right: 0;} 
+   .upload-image > form {max-width: 55%;}
+   .prod-list-info.detail-meta{padding: 20px;}
+   .product-scroller{max-height: 90px;}
+   .cart-sec table tr td{width: 287px !important;}
+   .res-top-bar{padding: 0 20px;}
+  .overlap-138 {
+        margin-top: 0px;
+    }
+    .pkg-btn .nav-item > a {
+        padding: 10px 19px;
+    }
+    .feature-over-meta > a {
+        margin-top: 10px;
+        padding: 10px 20px;
+    }
+    .welcom-gallery-note > h2 {
+        font-size: 22px;
+    }
+    .slider-student > button.slick-prev{left: 230px;}
+    .slider-student > button.slick-next::before{right: -5px;}
+}

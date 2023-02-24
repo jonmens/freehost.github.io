@@ -1,0 +1,17 @@
+.checkout_form {
+	float: left;width: 70%;padding: 0 15px;
+}
+div.checkout_table {
+	float: left;
+	width: 30%;
+	padding: 0 15px;
+	background-color: #ebe9eb;
+}
+.pay_now {
+	padding: 10px 15px;
+	float: right;
+}
+.consult-sec .form-group{
+	margin-bottom: 0px !important;
+	border-radius : 0px !important;
+}
